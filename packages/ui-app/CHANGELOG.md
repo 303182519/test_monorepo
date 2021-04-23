@@ -3,6 +3,26 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.5.0 (2021-04-23)
+
+
+### Features
+
+* **ui-app:** 增强main方法 ([ccc7082](https://github.com/303182519/test_monorepo/commit/ccc7082))
+
+
+
+# 1.4.0 (2021-04-23)
+
+
+### Features
+
+* **all:** 第一次提交 ([0004d1e](https://github.com/303182519/test_monorepo/commit/0004d1e))
+
+
+
+
+
 # 1.4.0 (2021-04-23)
 
 
