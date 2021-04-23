@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.1](https://github.com/303182519/test_monorepo/compare/v1.2.0...v2.0.1) (2021-04-23)
+
+
+### Bug Fixes
+
+* **ui-app:** main2 ([0530261](https://github.com/303182519/test_monorepo/commit/0530261))
+
+
+
+
+
 ## [1.5.3](https://github.com/303182519/test_monorepo/compare/ui-app@1.5.2...ui-app@1.5.3) (2021-04-23)
 
 
