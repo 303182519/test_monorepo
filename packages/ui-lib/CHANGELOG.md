@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.7.0](https://github.com/303182519/test_monorepo/compare/ui-lib@1.6.0...ui-lib@1.7.0) (2021-04-23)
+
+
+### Features
+
+* **ui-lib:** divide ([34a417d](https://github.com/303182519/test_monorepo/commit/34a417d))
+
+
+
+
+
 # [1.6.0](https://github.com/303182519/test_monorepo/compare/ui-lib@1.5.0...ui-lib@1.6.0) (2021-04-23)
 
 
