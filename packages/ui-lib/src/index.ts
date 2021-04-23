@@ -1,5 +1,6 @@
 import lodash from "lodash";
 export function add(a: number, b: number) {
+  console.log(1);
   return lodash.add(a,b);
 }
 
