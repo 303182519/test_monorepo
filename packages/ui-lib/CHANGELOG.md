@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.6.0](https://github.com/303182519/test_monorepo/compare/ui-lib@1.5.0...ui-lib@1.6.0) (2021-04-23)
+
+
+### Features
+
+* **ui-lib:** multi方法增加 ([f81bb8a](https://github.com/303182519/test_monorepo/commit/f81bb8a))
+
+
+
+
+
 # 1.5.0 (2021-04-23)
 
 
