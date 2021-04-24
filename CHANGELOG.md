@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.3](https://github.com/303182519/test_monorepo/compare/v2.0.1...v2.0.3) (2021-04-24)
+
+
+### Bug Fixes
+
+* **ui-app:** main3 ([0c0cbcc](https://github.com/303182519/test_monorepo/commit/0c0cbcc))
+
+
+
+
+
+
 ## [2.0.1](https://github.com/303182519/test_monorepo/compare/v1.2.0...v2.0.1) (2021-04-23)
 
 
