@@ -9,7 +9,7 @@ export function multi(a:number,b:number){
   return lodash.multiply(a,b);
 }
 export function divide(a:number, b:number){
-  console.log('2.3.0');
+  console.log('2.4.0');
   return a/b;
 }
 export function minus(a:number,b:number){
