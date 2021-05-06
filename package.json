@@ -13,7 +13,8 @@
     "test": "yarn workspaces run test",
     "release": "standard-version",
     "commit": "git add . && git-cz",
-    "version": "lerna version --conventional-commits "
+    "version": "lerna version --conventional-commits",
+    "publish": "lerna publish from-git"
   },
   "devDependencies": {
     "@commitlint/cli": "^8.0.0",

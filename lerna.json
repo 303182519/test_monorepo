@@ -6,7 +6,8 @@
   "version": "2.0.3",
   "useWorkspaces": true,
   "command": {
-    "publish": {
+    "version": {
+      "allowBranch": ["master"],
       "exact": true,
       "ignoreChanges": [
         "*.md"
@@ -14,6 +15,9 @@
       "verifyAccess": false,
       "verifyRegistry": false,
       "message": "chore: publish"
+    },
+    "publish": {
+      "registry": "http://npm.jsany.org"
     }
   }
 }

@@ -23,5 +23,6 @@
     "@types/lodash": "^4.14.135",
     "lodash": "^4.17.11",
     "ui-lib": "^1.7.0"
-  }
+  },
+  "gitHead": "10434ef2dc66324b297981315f134b6defcf41a0"
 }
