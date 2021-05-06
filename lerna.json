@@ -14,9 +14,6 @@
       "verifyAccess": false,
       "verifyRegistry": false,
       "message": "chore: publish"
-    },
-    "publish": {
-      "registry": "http://npm.jsany.org"
     }
   }
 }
