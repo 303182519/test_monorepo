@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.2.0](https://github.com/303182519/test_monorepo/compare/v2.0.3...v2.2.0) (2021-05-06)
+
+**Note:** Version bump only for package ui-app
+
+
+
+
+
+
 ## [2.0.3](https://github.com/303182519/test_monorepo/compare/v2.0.1...v2.0.3) (2021-04-24)
 
 

@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.2.0](https://github.com/hardfist/monorepo-starter/compare/v2.0.3...v2.2.0) (2021-05-06)
+
+**Note:** Version bump only for package ui-util
+
+
+
+
+
 # 1.4.0 (2021-04-23)
 
 

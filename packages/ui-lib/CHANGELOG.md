@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.2.0](https://github.com/303182519/test_monorepo/compare/v2.0.3...v2.2.0) (2021-05-06)
+
+
+### Features
+
+* **ui-util:** 新增版本号打印 ([6824f90](https://github.com/303182519/test_monorepo/commit/6824f90))
+
+
+
+
+
+
 # [1.7.0](https://github.com/303182519/test_monorepo/compare/ui-lib@1.6.0...ui-lib@1.7.0) (2021-04-23)
 
 
