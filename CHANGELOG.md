@@ -1,3 +1,19 @@
+# Change Log
+
+All notable changes to this project will be documented in this file.
+See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+# [2.4.0](https://github.com/303182519/test_monorepo/compare/v1.2.2...v2.4.0) (2021-05-06)
+
+
+### Features
+
+* **ui-lib:** 2.4.0 ([afe7763](https://github.com/303182519/test_monorepo/commit/afe7763))
+
+
+
+
+
 # Changelog
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
