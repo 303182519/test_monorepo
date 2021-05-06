@@ -1,7 +1,10 @@
-# Change Log
+# Changelog
 
-All notable changes to this project will be documented in this file.
-See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+### [1.2.2](https://github.com/303182519/test_monorepo/compare/v2.3.1...v1.2.2) (2021-05-06)
+
+
 
 ## [2.3.1](https://github.com/303182519/test_monorepo/compare/v2.3.0...v2.3.1) (2021-05-06)
 
