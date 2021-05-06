@@ -7,7 +7,6 @@
   "useWorkspaces": true,
   "command": {
     "version": {
-      "allowBranch": ["master"],
       "exact": true,
       "ignoreChanges": [
         "*.md"
