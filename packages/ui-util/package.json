@@ -1,5 +1,5 @@
 {
-  "name": "ui-util",
+  "name": "xjl-util",
   "version": "2.2.0",
   "description": "> TODO: description",
   "author": "hardfist <1562502418@qq.com>",
@@ -13,9 +13,6 @@
   "files": [
     "lib"
   ],
-  "publishConfig": {
-    "registry": "https://registry.npm.taobao.org/"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hardfist/monorepo-starter.git"

@@ -1,5 +1,5 @@
 {
-  "name": "ui-app",
+  "name": "xjl-app",
   "version": "2.3.0",
   "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
   "keywords": [],
@@ -24,5 +24,5 @@
     "lodash": "^4.17.11",
     "ui-lib": "2.3.0"
   },
-  "gitHead": "10434ef2dc66324b297981315f134b6defcf41a0"
+  "gitHead": "a029536d0a54c9e57ee3271a84a5bc0180fa92b3"
 }
