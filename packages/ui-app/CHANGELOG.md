@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.6.1](https://github.com/303182519/test_monorepo/compare/v2.6.0...v2.6.1) (2021-05-07)
+
+
+### Bug Fixes
+
+* **app:** pkg ([fabf49f](https://github.com/303182519/test_monorepo/commit/fabf49f))
+
+
+
+
+
 # [2.6.0](https://github.com/303182519/test_monorepo/compare/v2.5.0...v2.6.0) (2021-05-07)
 
 
