@@ -5,7 +5,7 @@ export function add(a: number, b: number) {
 }
 
 export function multi(a:number,b:number){
-  console.log(8888);
+  console.log(999);
   return lodash.multiply(a,b);
 }
 export function divide(a:number, b:number){
