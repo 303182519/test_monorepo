@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.6.0](https://github.com/303182519/test_monorepo/compare/v2.5.0...v2.6.0) (2021-05-07)
+
+
+### Bug Fixes
+
+* **root:** 文档 ([ba0d8be](https://github.com/303182519/test_monorepo/commit/ba0d8be))
+
+
+### Features
+
+* **ui-lib:** 888 ([3552268](https://github.com/303182519/test_monorepo/commit/3552268))
+
+
+
+
+
 # [2.5.0](https://github.com/303182519/test_monorepo/compare/v2.4.0...v2.5.0) (2021-05-06)
 
 
