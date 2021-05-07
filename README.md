@@ -8,7 +8,7 @@ monorepo脚手架，具体工作流参考 https://github.com/hardfist/stackoverf
 
 yarn release 是总的，可选项 https://segmentfault.com/a/1190000015376832
 
-yarn test -> yarn build -> yarn commit -> yarn run version -> yarn run release -> npm leran publish
+yarn test -> yarn build -> yarn commit -> yarn run version -> yarn run publish
 
 ## pkg.json
 

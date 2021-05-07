@@ -22,7 +22,7 @@
   "dependencies": {
     "@types/lodash": "^4.14.135",
     "lodash": "^4.17.11",
-    "ui-lib": "2.3.0"
+    "xjl-lib": "2.3.0"
   },
   "gitHead": "a029536d0a54c9e57ee3271a84a5bc0180fa92b3"
 }
